@@ -13,3 +13,11 @@
     text-align: center;
     display: flex;
 }
+.filmes1 {
+    display: flex;
+    align-content: space-around;
+    justify-content: center;
+    }
+.filmes-tit{
+    text-align: center;
+}
