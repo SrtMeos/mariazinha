@@ -34,3 +34,11 @@
     text-align: left;
 
 }
+.tit{
+    text-align: center;
+}
+.img1{
+    display: flex;
+    align-content: space-around;
+    justify-content: center;
+}
