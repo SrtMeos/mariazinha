@@ -21,3 +21,16 @@
 .filmes-tit{
     text-align: center;
 }
+.filmes2{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.h11{
+    height: 50px;
+}
+.gente{
+    display: flex;
+    text-align: left;
+
+}
